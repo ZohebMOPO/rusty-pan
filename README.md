@@ -1,6 +1,6 @@
 # Rusty-pan
 
-> v0.0.1
+> v0.0.2
 
 Rusty pan is a `pansexual` themed unix shell.
 
